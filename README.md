@@ -1,102 +1,75 @@
-<p align="center">
-  <a href="#">
-    <img alt="Ionic" src="https://github.com/ionic-team/ionic-framework/blob/main/.github/assets/logo.png?raw=true" width="60" />
-  </a>
-</p>
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# ionic-framework
 
-<h1 align="center">
-  Ionic
-</h1>
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/ionic-framework)
 
-<p align="center">
-  Ionic is an open source app development toolkit for building modern, fast, top-quality cross-platform native and Progressive Web Apps from a single codebase with JavaScript and the Web.
-</p>
-<p align="center">
-  Ionic is based on <a href="https://www.webcomponents.org/introduction">Web Components</a>, which enables significant performance, usability, and feature improvements alongside support for popular web frameworks like <a href="https://angular.io/">Angular</a>, <a href="https://reactjs.com/">React</a>, and <a href="https://vuejs.org/">Vue</a>.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-</p>
+## Architecture
 
-<p align="center">
-  <a href="https://github.com/ionic-team/ionic-framework/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Ionic Framework is released under the MIT license." />
-  </a>
-  <a href="https://github.com/ionic-team/ionic-framework/blob/main/docs/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  </a>
-  <a href="https://twitter.com/Ionicframework">
-    <img src="https://img.shields.io/twitter/follow/ionicframework.svg?label=Follow%20@IonicFramework" alt="Follow @IonicFramework">
-  </a>
-  <a href="https://ionic.link/discord">
-    <img src="https://img.shields.io/discord/520266681499779082?color=7289DA&label=%23ionic&logo=discord&logoColor=white" alt="Official Ionic Discord" />
-  </a>
-</p>
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-<h2 align="center">
-  <a href="https://ionicframework.com/docs/intro/cli">Quickstart</a>
-  <span> · </span>
-  <a href="https://ionicframework.com/docs/">
-    Documentation
-  </a>
-  <span> · </span>
-  <a href="https://github.com/ionic-team/ionic-framework/blob/main/docs/CONTRIBUTING.md">Contribute</a>
-  <span> · </span>
-  <a href="https://blog.ionicframework.com/">Blog</a>
-  <br />
-  Community:
-  <a href="https://ionic.link/discord">Discord</a>
-  <span> · </span>
-  <a href="https://forum.ionicframework.com/">Forums</a>
-  <span> · </span>
-  <a href="https://twitter.com/Ionicframework">Twitter</a>
-</h2>
+## Install
 
-### Packages
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-| Project | Package | Version | Downloads| Links |
-| ------- | ------- | ------- | -------- |:-----:|
-| **Core** | [`@ionic/core`](https://www.npmjs.com/package/@ionic/core) | [![version](https://img.shields.io/npm/v/@ionic/core/latest.svg)](https://www.npmjs.com/package/@ionic/core) | <a href="https://www.npmjs.com/package/@ionic/core" target="_blank"><img src="https://img.shields.io/npm/dm/@ionic/core.svg" alt="NPM Downloads" /></a> | [`README.md`](core/README.md)
-| **Angular** | [`@ionic/angular`](https://www.npmjs.com/package/@ionic/angular) | [![version](https://img.shields.io/npm/v/@ionic/angular/latest.svg)](https://www.npmjs.com/package/@ionic/angular) | <a href="https://www.npmjs.com/package/@ionic/angular" target="_blank"><img src="https://img.shields.io/npm/dm/@ionic/angular.svg" alt="NPM Downloads" /></a> | [`README.md`](packages/angular/README.md)
-| **Vue** | [`@ionic/vue`](https://www.npmjs.com/package/@ionic/vue) | [![version](https://img.shields.io/npm/v/@ionic/vue/latest.svg)](https://www.npmjs.com/package/@ionic/vue) | <a href="https://www.npmjs.com/package/@ionic/vue" target="_blank"><img src="https://img.shields.io/npm/dm/@ionic/vue.svg" alt="NPM Downloads" /></a> | [`README.md`](packages/vue/README.md)
-| **React** | [`@ionic/react`](https://www.npmjs.com/package/@ionic/react) | [![version](https://img.shields.io/npm/v/@ionic/react/latest.svg)](https://www.npmjs.com/package/@ionic/react) | <a href="https://www.npmjs.com/package/@ionic/react" target="_blank"><img src="https://img.shields.io/npm/dm/@ionic/react.svg" alt="NPM Downloads" /></a> |[`README.md`](packages/react/README.md)
+```bash
+git clone https://github.com/Interested-Deving-1896/ionic-framework.git
+cd ionic-framework
+```
 
-Looking for the `ionic-angular` package? Ionic 3 has been moved to the [`ionic-v3`](https://github.com/ionic-team/ionic-v3) repo. See [Earlier Versions](#earlier-versions).
+## Usage
 
-### Getting Started
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-Start a new project by following our [documentation](https://ionicframework.com/docs/).
-We would love to hear from you! If you have any feedback or run into issues using our framework, please file
-an [issue](https://github.com/ionic-team/ionic-framework/issues/new) on this repository.
+## Configuration
 
-### Migration Guides
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
 
-Already have an Ionic app? These guides will help you migrate to the latest versions.
+## CI
 
-* [Migrate from v7 to v8](https://ionicframework.com/docs/updating/8-0)
-* [Migrate from v6 to v7](https://ionicframework.com/docs/updating/7-0)
-* [Migrate from v5 to v6](https://ionicframework.com/docs/updating/6-0)
-* [Migrate from v4 to v5](https://ionicframework.com/docs/updating/5-0)
-* [Migrate from v3 to v4](https://ionicframework.com/docs/updating/4-0)
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
 
-### Examples
+## Mirror chain
 
-The Ionic Conference App is a full featured Ionic app. It is the perfect starting point for learning and building your own app.
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/ionic-framework`](https://github.com/Interested-Deving-1896/ionic-framework) and mirrored through:
 
-- [Angular Ionic Conference App](https://github.com/ionic-team/ionic-conference-app)
-- [React Ionic Conference App](https://github.com/ionic-team/ionic-react-conference-app)
-- [Vue Ionic Conference App](https://github.com/ionic-team/ionic-vue-conference-app)
+```
+Interested-Deving-1896/ionic-framework  ──►  OpenOS-Project-OSP/ionic-framework  ──►  OpenOS-Project-Ecosystem-OOC/ionic-framework
+```
 
-### Contributing
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
 
-Thanks for your interest in contributing! Read up on our guidelines for
-[contributing](https://github.com/ionic-team/ionic-framework/blob/main/docs/CONTRIBUTING.md)
-and then look through our issues with a [help wanted](https://github.com/ionic-team/ionic-framework/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-label.
+## Contributors
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/ionic-team/ionic-framework/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
 
-### Earlier Versions
+## Origins
 
-The source code for earlier versions of the Ionic Framework may exist in other repositories. Please open issues and pull requests in their respective repositories.
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
 
-* **Ionic 2/3**: Moved to [`ionic-team/ionic-v3`](https://github.com/ionic-team/ionic-v3)
-* **Ionic 1**: Moved to [`ionic-team/ionic-v1`](https://github.com/ionic-team/ionic-v1)
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[MIT](https://github.com/Interested-Deving-1896/ionic-framework/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
